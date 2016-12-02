@@ -1,0 +1,6 @@
+#include<stdlib.h>
+#include<stdio.h>
+
+void binToText(FILE *inpf, FILE *outf);
+void textToBin(FILE *inpf, FILE *outf);
+void analyze(FILE *inpf); 
